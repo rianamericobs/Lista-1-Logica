@@ -16,7 +16,7 @@
 
 ### Para a questão 7, como entrada você deve colocar da seguinte forma:
 Exemplo 1:
-  * (Entrada 1): And (P Q)
+  * (Entrada 1): And (P, Q)
   * (Entrada 2): P,Q
 
 ### Observação: Para entrada com somente uma variável, é necessário colocar a vírgula após digitar a variável (mesmo que não tenha outra em seguida).
