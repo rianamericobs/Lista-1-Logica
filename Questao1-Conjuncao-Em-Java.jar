@@ -1,0 +1,16 @@
+public class Main {
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 10;
+        int c = 7;
+
+        // Exemplo 1: Conjunção em uma decisão
+        if (a < b && c > a) {
+            System.out.println("b é maior que a e c é maior que a"); // Verdadeiro, pois (5 < 10) && (7 > 5)
+        }
+
+        // Exemplo 2: Conjunção em uma atribuição
+        boolean result = (a < b) && (c < b);
+        System.out.println("Resultado: " + result); // Verdadeiro, pois (5 < 10) && (7 < 10) é verdadeiro (result = true)
+    }
+}
