@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Para a questão 7, como entradas você deve colocar da seguinte forma:
+### Para a questão 7, você deve colocar as entradas da seguinte forma:
 Exemplo 1:
   * (Entrada 1): And (P, Q)
   * (Entrada 2): P, Q
