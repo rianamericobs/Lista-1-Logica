@@ -9,17 +9,17 @@
   * "AND" ("E")
   * "OR" ("OU")
   * "NOT" ("NÃO")
-  * "IMPLIES" ("IMPLICA"
+  * "IMPLIES" ("IMPLICA")
   * "IFF ("SE E SOMENTE SE")
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Para a questão 7, como entrada você deve colocar da seguinte forma:
+### Para a questão 7, como entradas você deve colocar da seguinte forma:
 Exemplo 1:
   * (Entrada 1): And (P, Q)
   * (Entrada 2): P, Q
 
-### Observação: Para entrada com somente uma variável, é necessário colocar a vírgula após digitar a variável (mesmo que não tenha outra em seguida).
+### Observação: Para entradas com somente uma variável, é necessário colocar a vírgula após digitar a variável (mesmo que não tenha outra em seguida).
 Exemplo 2:
   * (Entrada 1): And (P, Not(P))
   * (Entrada 2): P,
